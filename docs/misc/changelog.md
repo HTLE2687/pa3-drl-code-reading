@@ -102,6 +102,7 @@ We highly recommended you to upgrade to Python >= 3.11.
 ### New Features:
 
 - Added official support for Python 3.13
+- Use MacOS Metal "MPS" device when available
 
 ### Bug Fixes:
 
